@@ -1,3 +1,3 @@
 # Project
-some small project
-q
+some small projects based on C++.
+
